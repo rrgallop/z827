@@ -1,12 +1,3 @@
-/*
-  Ryan R. Gallop
-  3/4/2018
-  COS-350
-
-  PROGRAM 2: .z827 Compression
-
- */
-
 #include <fcntl.h>
 #include <sys/types.h>
 #include <sys/stat.h>
