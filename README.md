@@ -1,4 +1,4 @@
-#z827
+# z827
 
 Text compression algorithm designed to take advantage of ASCII characters only actually using 7 bits of a char (the most significant bit is always 0 in ASCII).
 
